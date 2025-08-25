@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/2tzz/Leet-Log/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/2tzz/Leet-Log/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/2tzz/Leet-Log/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/2tzz/Leet-Log/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
