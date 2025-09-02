@@ -3,7 +3,9 @@ class Solution:
         # Negative numbers cannot be palindromes
         if x < 0:
             return False
-        
         s = str(x)
-        return s == s[::-1]
+        if len(s) < 2:
+            return True
+        else:
+            return s == s[::-1]
            
