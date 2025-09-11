@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2tzz/Leet-Log/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/2tzz/Leet-Log/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/2tzz/Leet-Log/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/2tzz/Leet-Log/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2tzz/Leet-Log/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/2tzz/Leet-Log/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2tzz/Leet-Log/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/2tzz/Leet-Log/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
