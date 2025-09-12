@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         zero_count = nums.count(0)
