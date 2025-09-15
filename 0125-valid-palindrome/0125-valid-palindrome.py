@@ -5,4 +5,3 @@ class Solution:
             if c.isalpha() or c.isdigit():
                 new_s.append(c.lower())
         return new_s == new_s[::-1]
-        
