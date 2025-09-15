@@ -5,8 +5,9 @@ class Solution:
         for i, num in enumerate(numbers):
             diff = target - num
             if diff in lookup:
-                output = [lookup[diff] + 1, i + 1]
+                output = [lookup[diff] + 1, i + 1]  # 1-based index
                 break
             lookup[num] = i
+
         return output
         
