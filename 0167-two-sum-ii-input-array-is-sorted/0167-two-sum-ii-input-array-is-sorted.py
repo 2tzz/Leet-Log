@@ -8,6 +8,5 @@ class Solution:
                 output = [lookup[diff] + 1, i + 1]
                 break
             lookup[num] = i
-
         return output
         
