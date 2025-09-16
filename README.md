@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/2tzz/Leet-Log/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/2tzz/Leet-Log/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/2tzz/Leet-Log/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/2tzz/Leet-Log/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/2tzz/Leet-Log/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/2tzz/Leet-Log/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2tzz/Leet-Log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2tzz/Leet-Log/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/2tzz/Leet-Log/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/2tzz/Leet-Log/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/2tzz/Leet-Log/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2tzz/Leet-Log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2tzz/Leet-Log/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/2tzz/Leet-Log/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/2tzz/Leet-Log/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/2tzz/Leet-Log/tree/master/0394-decode-string) |
 ## Matrix
 |  |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/2tzz/Leet-Log/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/2tzz/Leet-Log/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
